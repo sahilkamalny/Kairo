@@ -1,0 +1,10 @@
+{
+    "$file": {
+        "value": "/Folder1/LOREM_IPSUM.txt",
+        "type": "file"
+    },
+    "$dir": {
+        "value": "/Folder1",
+        "type": "directory"
+    }
+}
